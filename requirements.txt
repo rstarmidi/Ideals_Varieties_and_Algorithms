@@ -1,4 +1,3 @@
 sympy==1.5.1
 numpy==1.18.*
 matplotlib==3.*
-pandas
